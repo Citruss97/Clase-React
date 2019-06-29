@@ -11,6 +11,21 @@ class Contador extends Component{
       contador: 0
     }
   }
+
+//aumentar = () => {
+//    this.setState8({
+//  contador:this.state.contador + 1
+//})
+//}
+
+// render(){
+// return (
+//   <div>
+//   <p>Contador: {this.state.contador}</p>
+//   <button onClick={this.aumentar}
+//  >Aumentar</button>
+//  </div>
+
 render(){
   return (
     <div>
